@@ -2,7 +2,7 @@
 
 It's QT
 
-![OwO](chrome://dino)
+![OwO](https://chromedino.com)
 
 <!--
 **rekcustq/rekcusTQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
