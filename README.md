@@ -2,7 +2,9 @@
 
 It's QT
 
-![OwO](https://chromedino.com)
+<iframe
+  src="https://chromedino.com"
+></iframe>
 
 <!--
 **rekcustq/rekcusTQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
