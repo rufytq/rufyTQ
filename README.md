@@ -1,4 +1,4 @@
-### Hi there 👋! <img alt="👋 Hi there! I'm (QT(111|rus)|rekcusTQ)" title="👋 Hi there! I'm (QT(111|rus)|rekcusTQ)"/>
+### Hi there 👋! I'm (QT(111|rus)|rekcusTQ)
 
 <!--
 **rekcustq/rekcusTQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
