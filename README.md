@@ -1,8 +1,9 @@
-### OwO
+### [OwO](https://rufytq.github.io/)
 
 [It's QT](https://chromedino.com)
 
-
+- 🔭 I’m currently working on **golang and python**
+- ⚡ Fun fact: **Anything that can go wrong will go wrong!**
 
 <!--
 **rekcustq/rekcusTQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
